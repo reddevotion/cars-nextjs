@@ -8,6 +8,7 @@ export interface CustomButtonProps {
     textStyle?: string;
     rightIcon?: string;
     isDisabled?: boolean;
+    link?: string;
     
 }
 
